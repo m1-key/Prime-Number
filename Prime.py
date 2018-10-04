@@ -21,4 +21,5 @@ def prime(n):
             print(i,end=" ")
 
 n=int(input("Enter the number: "))
-prime(n)
+prime(n)        #funtion called
+
