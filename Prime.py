@@ -4,7 +4,7 @@ Created on Sat Sep 29 15:19:36 2018
 
 @author: Mithilesh
 """
-import math
+import math    #importing math module
 def prime(n):
     flag=0
     print(2,3,end=" ")
