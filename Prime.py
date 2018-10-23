@@ -18,7 +18,7 @@ def prime(n):
                 continue
         if flag==1:
             flag=0
-            print(i,end=" ")
+            print(i,end=" ")         #prints
 
 n=int(input("Enter the number: "))
 prime(n)        #funtion called
